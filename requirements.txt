@@ -1,0 +1,5 @@
+langchain
+langchain-google-genai
+huggingface_hub
+python-dotenv
+streamlit
